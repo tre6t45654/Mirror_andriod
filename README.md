@@ -1,4 +1,5 @@
-魔镜安卓版（Mirror安卓版）
+# 魔镜安卓版（Mirror安卓版）
+
 这是一款“美少女＋宝石消除＋GALGAME”结合的SLG类Game
 ![image](https://github.com/tre6t45654/Mirror_andriod/assets/105280822/0f253539-7e97-416c-bd26-024f2ae39123)
 ![image](https://github.com/tre6t45654/Mirror_andriod/assets/105280822/edf3642f-d4b1-414a-a82a-52904998770b)
